@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /
+
+Disallow: /dashboard
+Disallow: /simulate
+Disallow: /simulations
+Disallow: /vehicles
+Disallow: /roads
+Disallow: /settings
+Disallow: /reset-password
+
+Sitemap: https://drive-test-pro.lovable.app/sitemap.xml
