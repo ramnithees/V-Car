@@ -1,39 +1,39 @@
-# # Logs
-# logs
-# *.log
-# npm-debug.log*
-# yarn-debug.log*
-# yarn-error.log*
-# pnpm-debug.log*
-# lerna-debug.log*
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
 
-# node_modules
-# dist
-# dist-ssr
-# .output
-# .vinxi
-# .tanstack/**
-# .nitro
-# *.local
+node_modules
+dist
+dist-ssr
+.output
+.vinxi
+.tanstack/**
+.nitro
+*.local
 
-# # Wrangler / Cloudflare
-# .wrangler/
-# .dev.vars
+# Wrangler / Cloudflare
+.wrangler/
+.dev.vars
 
-# # Editor directories and files
-# .vscode/*
-# !.vscode/extensions.json
-# .idea
-# .DS_Store
-# *.suo
-# *.ntvs*
-# *.njsproj
-# *.sln
-# *.sw?
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
 
-# # Local env files (never commit — contains project keys)
-# .env
-# .env.*.local
+# Local env files (never commit — contains project keys)
+.env
+.env.*.local
 
-# # Single lockfile policy: this project uses bun (bun.lock)
-# package-lock.json
+# Single lockfile policy: this project uses bun (bun.lock)
+package-lock.json
